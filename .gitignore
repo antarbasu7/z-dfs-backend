@@ -1,0 +1,13 @@
+build
+node_modules
+.env
+local.yml
+local.yaml
+*.swp
+coverage
+temp
+config/test.yaml
+.vscode/
+trivy
+.trivycache/
+/contrib
